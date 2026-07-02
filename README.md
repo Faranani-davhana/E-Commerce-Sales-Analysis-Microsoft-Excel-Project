@@ -5,9 +5,9 @@ This project analyzes the sales data using Microsoft Excel to identify trends, e
 
  Dataset Source: [E-Commerce Sales Analysis](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
 
- Excel Workbook: [View Excel Project](Ecommerce_Sales_Analysis_Project.xlsx)
+ Excel Workbook: [View Excel Project](Ecommerce_Sales_Analysis Project.xlsx)
 
- Project Report: [View PDF Report](Project_Report.pdf)
+ Project Report: [View PDF Report](E-Commerce sales performance analysis Insights.pdf)
 
  ## Dashboard Preview
 
