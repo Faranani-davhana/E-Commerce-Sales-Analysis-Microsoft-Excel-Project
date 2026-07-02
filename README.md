@@ -11,4 +11,7 @@ This project analyzes the sales data using Microsoft Excel to identify trends, e
 
  ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png.png)
+![Dashboard](dashboard.png(2).png)
+![Dashboard](dashboard.png(3).png)
+![Dashboard](dashboard.png(4).png)
